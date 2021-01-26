@@ -39,4 +39,5 @@ d = {'name':artist_name, 'record':record_name, 'price':record_price}
 # construct pandas dataframe
 listing = pd.DataFrame(d)
 
-listing.to_markdown()
+print(listing.to_markdown())
+# --------------------------------------------------------------------------END 
