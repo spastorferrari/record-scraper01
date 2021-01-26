@@ -1,6 +1,6 @@
 # record scraper
 ## sebastian pastor ferrari 2O21 © - for reference only
-"When Alexander saw the breadth of his domain, he wept. For there was no more world left to conquer."
+"When Alexander saw the breadth of his domain, he wept. For there was no more world left to conquer.."
 
 ![image](images/cover.jpg)
 
