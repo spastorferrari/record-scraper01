@@ -40,4 +40,4 @@ d = {'name':artist_name, 'record':record_name, 'price':record_price}
 listing = pd.DataFrame(d)
 
 print(listing.to_markdown())
-# --------------------------------------------------------------------------END 
+# --------------------------------------------------------------------------END

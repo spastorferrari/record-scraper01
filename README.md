@@ -1,8 +1,8 @@
 # record scraper
 ## sebastian pastor ferrari 2O21 © - for reference only
-###### "When Alexander saw the breadth of his domain... He wept, for there was no more world left to conquer."
+"When Alexander saw the breadth of his domain, he wept. For there was no more world left to conquer."
 
-Data Mining of records and prices from https://rollinrecs.com/rap-hip-hop-r-b/
+![image](images/cover.jpg)
 
 
 |    | name                           | record                                 |   price |
@@ -15,3 +15,6 @@ Data Mining of records and prices from https://rollinrecs.com/rap-hip-hop-r-b/
 |  5 | ASAP Mob                       | Cozy Tapes Vol. 1: Friends A$AP Rocky  |   34.99 |
 |  6 | Frank Ocean                    | Unreleased, Misc.Vol.2                 |   39.99 |
 |  7 | Frank Ocean                    | THE LONNY BREAUX COLLECTION            |  124.99 |
+
+
+Source: https://rollinrecs.com/rap-hip-hop-r-b/
