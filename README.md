@@ -5,7 +5,7 @@
 ![image](images/cover.jpg)
 
 
-|    | name                           | record                                 |   price |
+|    | name                           | record                                 |   price ($USD) |
 |---:|:-------------------------------|:---------------------------------------|--------:|
 |  0 | Jay-Z                          | Reasonable Doubt                       |   39.99 |
 |  1 | ASAP Mob                       | Cozy Tapes Vol. 2: Too Cozy A$ap Rocky |   34.99 |
